@@ -12,17 +12,17 @@
   <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Azure SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img alt="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-</div>
+</div><br>
 
 <!-- GitHub Stats -->
 <picture style="margin-bottom: 50px;">
   <source srcset="https://github-readme-stats.vercel.app/api?username=ademaster&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=ademaster&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api?username=ademaster&show_icons=true" alt="GitHub Stats" />
-</picture>
+</picture><br>
 
 <!-- Redes Sociais -->
-<div style="margin-top: 50px; display: flex; gap: 10px;">
+<div style="margin-top: 50px; display: flex; gap: 10px;"><br>
   <a href="https://www.instagram.com/ademir.haack/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
