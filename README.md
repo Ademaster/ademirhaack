@@ -1,4 +1,4 @@
-## Oiii eu sou o Ademir Haack, Desenvovledor Flutter com com foco na linguagem Dart!
+## Oiii eu sou o Ademir Haack, Desenvovledor Flutter com foco na linguagem Dart!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
