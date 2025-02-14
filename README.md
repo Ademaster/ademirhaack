@@ -1,4 +1,4 @@
-## Oiii eu sou o Ademir Haack, Desenvovledor Flutter com foco na linguagem Dart!
+## Olá eu sou o Ademir Haack, Desenvovledor Flutter com foco na linguagem Dart!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
